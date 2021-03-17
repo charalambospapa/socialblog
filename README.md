@@ -9,9 +9,9 @@
 
 2. Regardless of the method you used to create it, you should have your virtual environment created. Now you have to tell the system that you want to use it, and you do that by activating it. To activate your brand new virtual environment you use the following command:
 
-$ source venv/bin/activate
+    `source venv/bin/activate`
 
-Now that you have a virtual environment created and activated, you can finally install Flask in it:
+3. Now that you have a virtual environment created and activated, you can finally install Flask in it:
 
 $ pip install flask
 
